@@ -1,0 +1,7 @@
+*.[gz]
+*.log
+*.a
+!lib.a
+/build
+build/
+doc/**/*.pdf
